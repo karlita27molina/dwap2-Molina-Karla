@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "node": "^16.6.0",
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js",
+    "start": "node server.js"
+  },
+  "name": "examenp2_molinakarla",
+  "version": "1.0.0",
+  "description": "ExamenParcial2 Karla Molina",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "examen"
+  ],
+  "author": "Karla Molina",
+  "license": "ISC"
+}

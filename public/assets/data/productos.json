@@ -1,0 +1,35 @@
+
+    [
+    {
+        "imagen":"assets/imagenes/imagen3.jpg",
+        "nombre":"Tulipan Triple",
+        "precio": "1.80"
+    },
+    {
+        "imagen":"assets/imagenes/imagen4.jpg",
+        "nombre":"Cono Doble",
+        "precio": "1.00"
+    },
+    {
+        "imagen":"assets/imagenes/imagen5.jpg",
+        "nombre":"Litro de Helado",
+        "precio": "7.50"
+    },
+    {
+        "imagen":"assets/imagenes/imagen6.jpg",
+        "nombre":"Cono Simple",
+        "precio": "0.80"
+    },
+    {
+        "imagen":"assets/imagenes/imagen7.jpg",
+        "nombre":"Copa Simple",
+        "precio": "2.00"
+    },
+    {
+        "imagen":"assets/imagenes/imagen8.jpg",
+        "nombre":"Copa Triple",
+        "precio": "2.50"
+    }
+]
+
+
